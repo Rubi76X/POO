@@ -1,4 +1,4 @@
 # Práctica 
 
-Programación orientada a objetos con javascript
+Programación orientada a objetos con Javascript
 
